@@ -7,7 +7,7 @@ Soy Ariadna, una desarrolladora de Huelva, hago principalmente aplicaciones y ju
   Más sobre mi aquí
 </summary>
 
-### ¿Qué es lo que hago?
+### ¿Qué es lo que hago? 🖥️
 
 Hago pequeños juegos y prototipos. Tambien hago algunas webs y aplicaciones variadas.
 
@@ -18,12 +18,12 @@ Hago pequeños juegos y prototipos. Tambien hago algunas webs y aplicaciones var
 - Unity
 - Unreal Engine 5
 
-### Lenguajes de Programación
+### Lenguajes de Programación ⌨️
 
 - C#
 - C++
 
-### Tecnologías Web
+### Tecnologías Web 📦
 
 - Html
 - Css
@@ -40,11 +40,11 @@ Hago pequeños juegos y prototipos. Tambien hago algunas webs y aplicaciones var
 | Español       | Nativo         |
 | Inglés        | B2             |
 
-### Mis Contactos
+### Mis Contactos ✉️
 
 e-mail: ariadnadelgadodev@gmail.com
 
-### Lugares de Interés
+### Lugares de Interés 🗃️
 
 - **Mi Itch.io:** https://ariadna5d.itch.io/
 - **Mi ArtStation:** https://www.artstation.com/ariadna5d
