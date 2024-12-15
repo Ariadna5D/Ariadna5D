@@ -46,7 +46,7 @@ e-mail: ariadnadelgadodev@gmail.com
 
 ### Lugares de Interés
 
-**- Mi Itch.io:** https://ariadna5d.itch.io/
-**- Mi ArtStation:** https://www.artstation.com/ariadna5d
+- ** Mi Itch.io:** https://ariadna5d.itch.io/
+- ** Mi ArtStation:** https://www.artstation.com/ariadna5d
 
 </details>
