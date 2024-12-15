@@ -33,12 +33,12 @@ Hago pequeños juegos y prototipos. Tambien hago algunas webs y aplicaciones var
 - Java
 - SQL
 
-### Languages 🌐
+### Idiomas 🌐
 
-| Language      | Proficiency    |
-| ------------- | -------------- |
-| Español       | Nativo         |
-| Inglés        | B2             |
+| Idioma      | Nivel       |
+| ----------- | ----------- |
+| Español     | Nativo      |
+| Inglés      | B2          |
 
 ### Mis Contactos ✉️
 
