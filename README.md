@@ -44,7 +44,7 @@ Hago pequeños juegos y prototipos. Tambien hago algunas webs y aplicaciones var
 
 e-mail: ariadnadelgadodev@gmail.com
 
-### Lugares de Interés :card_box:
+### Lugares de Interés 📭
 
 - **Mi Itch.io:** https://ariadna5d.itch.io/
 - **Mi ArtStation:** https://www.artstation.com/ariadna5d
