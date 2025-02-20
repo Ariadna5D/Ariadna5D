@@ -7,7 +7,7 @@ Soy Ariadna, una desarrolladora de Huelva, hago principalmente aplicaciones y ju
   Más sobre mi aquí
 </summary>
 
-### ¿Qué es lo que hago? :desktop:
+### ¿Qué es lo que hago? 🖥️
 
 Hago pequeños juegos y prototipos. Tambien hago algunas webs y aplicaciones variadas.
 
