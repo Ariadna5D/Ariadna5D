@@ -4,7 +4,7 @@
 ✨ **I build:**  
 - 🎮 **Games & Prototypes** (Unity/Unreal)
 - 🛢️ **Database Systems** (Design/Queries/Procedures)  
-- 🌐 **Web & Apps** (C#/C++/HTML)  
+- 🌐 **Web & Apps** (C#/C++/HTML/Java/JavaScript)  
 
 📊 **GitHub Stats:**  
 
@@ -13,11 +13,11 @@
 [![Ariadna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariadna5D&layout=compact&theme=dark)](https://github.com/Ariadna5D)
 
 🛠️ **Tech Stack:**  
-`Unity` `Unreal` `C#` `C++`  
+`Unity` `Unreal` `C#` `C++` `CSS` `JavaScript` 
 `SQL` `MySQL` `Stored Procedures` `Database Design`  
 
 📚 **Currently Learning:**  
-`Java` `Advanced SQL` `Database Optimization`  
+`Java` `SQL` `Database Optimization`  
 
 🌍 **Languages:** `Spanish` (Native) | `English` (B2)  
 
