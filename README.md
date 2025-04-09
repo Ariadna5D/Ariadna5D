@@ -1,52 +1,19 @@
-# Hello! :wave:
+### 👋 Hi, I'm Ariadna  
+**Game Dev & Full-Stack Developer** from Huelva, Spain  
 
-I'm Ariadna, a developer from Huelva. I mainly create applications and games, but I love learning about everything.
+✨ **I build:**  
+- 🎮 **Games & Prototypes** (Unity/Unreal)
+- 🛢️ **Database Systems** (Design/Queries/Procedures)  
+- 🌐 **Web & Apps** (C#/C++/HTML)  
 
-<details>
-<summary>
-  More about me here
-</summary>
+🛠️ **Tech Stack:**  
+`Unity` `Unreal` `C#` `C++`  
+`SQL` `MySQL` `Stored Procedures` `Database Design`  
 
-### What do I do? 🖥️
+📚 **Currently Learning:**  
+`Java` `Advanced SQL` `Database Optimization`  
 
-I  develop various websites and applications. I also make small games and prototypes.
+🌍 **Languages:** `Spanish` (Native) | `English` (B2)  
 
-## My Skills :scroll:
-
-### Game Engines :space_invader:
-
-- Unity
-- Unreal Engine 5
-
-### Programming Languages :keyboard:
-
-- C#
-- C++
-
-### Web Technologies :package:
-
-- HTML
-- CSS
-
-### Currently Learning... :books:
-
-- Java
-- SQL
-
-### Languages :globe_with_meridians:
-
-| Language    | Level       |
-| ----------- | ----------- |
-| Spanish     | Native      |
-| English     | B2          |
-
-### Contact Information :envelope:
-
-Email: ariadnadelgadodev@gmail.com
-
-### Links of Interest 📭
-
-- **My Itch.io:** https://ariadna5d.itch.io/
-- **My ArtStation:** https://www.artstation.com/ariadna5d
-
-</details>
+📫 **Let's connect:**  
+[📧 Email](mailto:ariadnadelgadodev@gmail.com) | [🎮 Itch.io](https://ariadna5d.itch.io/) | [🎨 ArtStation](https://www.artstation.com/ariadna5d)  
