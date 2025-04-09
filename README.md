@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ariadna </h1>
-<h2 align="center"> **Game Dev & Application Developer** from Huelva, Spain  </h2>
+<h3 align="center"> <b>Game Dev & Application Developer</b> from Huelva, Spain  </h3>
 
 ---
 
