@@ -5,9 +5,9 @@
 
 ### 🚀 What I Do
 
-- 🕹 **Game Development**: Crafting immersive experiences with Unity & Unreal Engine
-- 🗃 **Database Engineering**: Designing optimized data architectures and queries
-- 🌐 **Full-Stack Development**: Building robust web applications from front to back
+- 🕹 **Game Development**: Crafting some small projects with Unity & Unreal Engine
+- 🗃 **Database Engineering**: Learning optimized data design architectures and queries
+- 🌐 **Full-Stack Development**: Learning to build robust web applications from front to back
 
 ---
 
