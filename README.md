@@ -1,5 +1,5 @@
-### 👋 Hi, I'm Ariadna  
-**Game Dev & Full-Stack Developer** from Huelva, Spain  
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ariadna </h1>
+**Game Dev & Application Developer** from Huelva, Spain  
 
 ✨ **I build:**  
 - 🎮 **Games & Prototypes** (Unity/Unreal)
