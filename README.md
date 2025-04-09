@@ -4,7 +4,7 @@
 ✨ **I build:**  
 - 🎮 **Games & Prototypes** (Unity/Unreal)
 - 🛢️ **Database Systems** (Design/Queries/Procedures)  
-- 🌐 **Web & Apps** (C#/C++/HTML/Java/JavaScript)  
+- 🌐 **Web & Apps** (C#/HTML/Java/JavaScript)  
 
 📊 **GitHub Stats:**  
 
