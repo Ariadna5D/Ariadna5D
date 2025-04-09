@@ -1,52 +1,52 @@
-# Hola! :wave:
+# Hello! :wave:
 
-Soy Ariadna, una desarrolladora de Huelva, hago principalmente aplicaciones y juegos, pero me encanta aprender de todo.
+I'm Ariadna, a developer from Huelva. I mainly create applications and games, but I love learning about everything.
 
 <details>
 <summary>
-  Más sobre mi aquí
+  More about me here
 </summary>
 
-### ¿Qué es lo que hago? 🖥️
+### What do I do? 🖥️
 
-Hago pequeños juegos y prototipos. Tambien hago algunas webs y aplicaciones variadas.
+I make small games and prototypes. I also develop various websites and applications.
 
-## Mis Habilidades :scroll:
+## My Skills :scroll:
 
-### Motores de Videojuegos :space_invader:
+### Game Engines :space_invader:
 
 - Unity
 - Unreal Engine 5
 
-### Lenguajes de Programación :keyboard:
+### Programming Languages :keyboard:
 
 - C#
 - C++
 
-### Tecnologías Web :package:
+### Web Technologies :package:
 
-- Html
-- Css
+- HTML
+- CSS
 
-### Actualmente Aprendiendo... :books:
+### Currently Learning... :books:
 
 - Java
 - SQL
 
-### Idiomas :globe_with_meridians:
+### Languages :globe_with_meridians:
 
-| Idioma      | Nivel       |
+| Language    | Level       |
 | ----------- | ----------- |
-| Español     | Nativo      |
-| Inglés      | B2          |
+| Spanish     | Native      |
+| English     | B2          |
 
-### Mis Contactos :envelope:
+### Contact Information :envelope:
 
-e-mail: ariadnadelgadodev@gmail.com
+Email: ariadnadelgadodev@gmail.com
 
-### Lugares de Interés 📭
+### Links of Interest 📭
 
-- **Mi Itch.io:** https://ariadna5d.itch.io/
-- **Mi ArtStation:** https://www.artstation.com/ariadna5d
+- **My Itch.io:** https://ariadna5d.itch.io/
+- **My ArtStation:** https://www.artstation.com/ariadna5d
 
 </details>
