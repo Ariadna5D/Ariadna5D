@@ -9,7 +9,7 @@ I'm Ariadna, a developer from Huelva. I mainly create applications and games, bu
 
 ### What do I do? 🖥️
 
-I make small games and prototypes. I also develop various websites and applications.
+I  develop various websites and applications. I also make small games and prototypes.
 
 ## My Skills :scroll:
 
