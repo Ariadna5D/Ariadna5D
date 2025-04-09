@@ -12,8 +12,6 @@
 
 [![Ariadna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariadna5D&layout=compact&theme=dark)](https://github.com/Ariadna5D)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ariadna5D&theme=dark)](https://git.io/streak-stats)
-
 🛠️ **Tech Stack:**  
 `Unity` `Unreal` `C#` `C++`  
 `SQL` `MySQL` `Stored Procedures` `Database Design`  
