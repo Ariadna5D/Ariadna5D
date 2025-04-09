@@ -1,11 +1,5 @@
-<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Ariadna</h1>
-<h3 align="center">Game Developer | Full-Stack Engineer | Database Specialist</h3>
-
-<p align="center">
-  <a href="https://ariadna5d.itch.io/"><img src="https://img.icons8.com/fluency/48/000000/itch-io.png" alt="Itch.io" width="30"/></a>
-  <a href="https://www.artstation.com/ariadna5d"><img src="https://img.icons8.com/fluency/48/000000/artstation.png" alt="ArtStation" width="30"/></a>
-  <a href="mailto:ariadnadelgadodev@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="30"/></a>
-</p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ariadna </h1>
+**Game Dev & Application Developer** from Huelva, Spain  
 
 ---
 
