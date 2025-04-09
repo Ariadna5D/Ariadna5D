@@ -51,7 +51,7 @@
 
 ### 🌎 Languages
 - Spanish (Native)
-- English (Professional Working Proficiency)
+- English (B2)
 
 ---
 
