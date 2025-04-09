@@ -9,7 +9,6 @@
 📊 **GitHub Stats:**  
 
 [![Ariadna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ariadna5D&show_icons=true&theme=dark)](https://github.com/Ariadna5D)
-
 [![Ariadna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariadna5D&layout=compact&theme=dark)](https://github.com/Ariadna5D)
 
 🛠️ **Tech Stack:**  
