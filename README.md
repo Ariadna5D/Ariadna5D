@@ -8,11 +8,11 @@
 
 📊 **GitHub Stats:**  
 <!-- GitHub Stats Cards -->
-[![Ariadna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariadna5D&layout=compact&theme=dracula)](https://github.com/Ariadna5D)
-[![Ariadna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ariadna5D&show_icons=true&theme=dracula)](https://github.com/Ariadna5D)
+[![Ariadna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariadna5D&layout=compact&theme=dark)](https://github.com/Ariadna5D)
+[![Ariadna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ariadna5D&show_icons=true&theme=dark)](https://github.com/Ariadna5D)
 
 <!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ariadna5D&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ariadna5D&theme=dark)](https://git.io/streak-stats)
 
 🛠️ **Tech Stack:**  
 `Unity` `Unreal` `C#` `C++`  
