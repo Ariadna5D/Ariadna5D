@@ -42,8 +42,12 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="![ariadna5d's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ariadna5d&theme=nightowl&hide_border=true)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariadna5D&layout=compact&theme=github_dark&hide_border=true&exclude_repo=AI-Assistant" alt="Top Languages"/>
+  
+  ![ariadna5d's Stats](https://github-readme-stats.vercel.app/api?username=ariadna5d&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+  
+  ![ariadna5d's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ariadna5d&theme=nightowl&hide_border=true)
+  
+  ![ariadna5d's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariadna5d&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 ---
