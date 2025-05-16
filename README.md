@@ -41,7 +41,6 @@
 
 ### 📈 GitHub Analytics
 
-<p align="center">
   <div align="center">
     
   ![ariadna5d's Stats](https://github-readme-stats.vercel.app/api?username=ariadna5d&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
@@ -50,7 +49,7 @@
   
   ![ariadna5d's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariadna5d&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
   </div>
-</p>
+
 
 ---
 
