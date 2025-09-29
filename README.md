@@ -42,7 +42,7 @@
 
   <div align="center">
     
-  ![ariadna5d's Stats](https://github-readme-stats.vercel.app/api?username=ariadna5d&theme=nightowl&show_icons=true&hide_border=true&count_private=true) 
+  <!--![ariadna5d's Stats](https://github-readme-stats.vercel.app/api?username=ariadna5d&theme=nightowl&show_icons=true&hide_border=true&count_private=true)--> 
   
 ![ariadna5d's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ariadna5d&theme=nightowl&hide_border=true)
   
