@@ -51,15 +51,6 @@
 
 ---
 
-### 📈 GitHub Analytics  
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariadna5d&theme=nightowl&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ariadna5d&show_icons=true&theme=nightowl&hide_border=true"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariadna5d&theme=nightowl&show_icons=true&hide_border=true&layout=compact"/>
-</div>
-
----
-
 ### 🌎 Languages  
 - Spanish (Native)  
 - English (B2)  
