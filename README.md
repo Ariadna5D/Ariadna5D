@@ -51,11 +51,24 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ariadna5d&theme=radical" width="47%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ariadna5d&layout=compact&theme=radical" width="34%" />
+  <br>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ariadna5d&show_icons=true&theme=radical" width="67%" />
+</p>
+
+---
+
 ### 🌎 Languages  
 - Spanish (Native)  
 - English (B2)  
 
 ---
+
+
 
 ### 📬 Let's Connect  
 <p align="center">
