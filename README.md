@@ -1,78 +1,52 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ariadna </h1>
-<h3 align="center"><b>Game Dev & Application Developer</b> from Huelva, Spain</h3>
+<div align="center">
+  <h1>Hey there! I'm Ariadna <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+  <h3>Game Developer & Full-Stack Engineer | Huelva, Spain ☀️</h3>
+  <br>
+  <p>
+    <a href="https://www.linkedin.com/in/ariadnadelgadosantana/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://ariadna5d.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" /></a>
+    <a href="mailto:ariadnadelgadodev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" /></a>
+  </p>
+</div>
 
 ---
 
-### 🚀 What I Do
+### ⚡ A bit about me
 
-- 🕹 **Game Development**: Crafting small projects with Unity & Unreal Engine  
-- 🗃 **Database Engineering**: Learning optimized data design architectures and queries  
-- 🌐 **Full-Stack Development**: Building robust web applications from front to back  
+I love mixing creativity with logic. My journey in tech spans from building solid web architectures to crafting immersive worlds in video games. 
+
+- 🎓 **Student:** Currently wrapping up my 2nd year of DAW.
+- 🎮 **Game Dev:** Crafting interactive experiences using **Unity and Unreal Engine**. Proud participant of the **Málaga Jam**!
+- 💻 **Web Dev:** Building robust, full-stack applications with an eye for clean code.
+- 🌱 **Currently brewing:** Developing a containerized Kanban web app using **NestJS, React, and Docker**.
 
 ---
 
-### 💻 Tech Stack
+### 🛠 Tech Stack
 
-#### Frontend & UI
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-</p>
-
-#### Backend & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
-
-#### Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-#### Development Tools
-<p>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+<p align="center">
+  <a href="https://github.com/Ariadna5D">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nestjs,tailwind,react,vue,php,laravel,python,java,cs,mysql,mongodb,docker,unity,unreal,vscode,git&theme=dark&perline=10" alt="Tech Stack"/>
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 What I've been building
+
+* 🚧 **Kanban Web App (WIP)**: A full-stack task management platform, currently in development and fully containerized (**NestJS / React / Docker**).
+* 🥾 **[OnubHiking](https://github.com/Ariadna5D/OnubHiking_Vue)**: Responsive front-end web interface for outdoor activities (**Vue.js**).
+* 🐙 **[Git RepoManager](https://github.com/Ariadna5D/Git_RepoManager)**: A practical tool designed to streamline repository management and organization.
+* 💬 **[Red Social](https://github.com/Ariadna5D/RedSocial_Laravel)**: A fully functional social network platform featuring user authentication and community interactions (**Laravel / PHP**).
+* ⏳ **[Ruingard](https://ariadna5d.itch.io/ruingard)**: A fast-paced, time-attack 3D game built from the ground up (**Unreal Engine**).
+
+---
+
+### 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ariadna5d&theme=radical" width="47%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ariadna5d&layout=compact&theme=radical" width="34%" />
   <br>
   <img src="https://github-readme-stats-fast.vercel.app/api?username=ariadna5d&show_icons=true&theme=radical" width="67%" />
-</p>
-
----
-
-### 🌎 Languages  
-- Spanish (Native)  
-- English (B2)  
-
----
-
-
-
-### 📬 Let's Connect  
-<p align="center">
-  <a href="https://www.linkedin.com/in/ariadnadelgadosantana/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ariadnadelgadodev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://ariadna5d.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/></a>
 </p>
